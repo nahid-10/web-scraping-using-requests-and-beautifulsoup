@@ -1,4 +1,3 @@
-# web-scraping-using-requests-and-beautifulsoup
 # 🌍 Web Scraping: Demographics of Bangladesh
 
 This project demonstrates how to perform web scraping using Python's `requests` and `BeautifulSoup` libraries. The data is scraped from the [Wikipedia page on the Demographics of Bangladesh](https://en.wikipedia.org/wiki/Demographics_of_Bangladesh) and includes population statistics, census data, literacy rates, age distribution, and more.
