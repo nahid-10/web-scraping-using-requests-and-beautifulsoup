@@ -40,3 +40,17 @@ The goal of this project is to:
    ```bash
    git clone https://github.com/nahid-10/web-scraping-using-requests-and-beautifulsoup.git
    cd web-scraping-using-requests-and-beautifulsoup
+
+
+📊 Sample Extracted Data
+Some of the extracted information includes:
+
+Total population over different census years
+
+Literacy rate by gender
+
+Religious demographics
+
+Urban vs rural population distribution
+
+Age group breakdowns
