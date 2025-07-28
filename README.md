@@ -42,7 +42,7 @@ The goal of this project is to:
 
 
 📊 Sample Extracted Data
-Some of the extracted information includes:
+Some of the extracted information includes :
 
 Total population over different census years
 
